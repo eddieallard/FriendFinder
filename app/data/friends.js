@@ -145,7 +145,7 @@ var friends = [
       },
     {
         "name":"Jaih",
-        "photo":"Invalid URL",
+        "photo":"https://tinyurl.com/y25dh6z8",
         "points":[
             5,
             1,
