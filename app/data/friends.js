@@ -2,7 +2,7 @@ var friends = [
     {
         "name":"Ahmed",
         "photo":"https://tinyurl.com/y3np2tg3",
-        "scores":[
+        "points":[
             5,
             1,
             4,
@@ -18,7 +18,7 @@ var friends = [
     {
         "name":"Jennifer",
         "photo":"https://tinyurl.com/y6cfmuuz",
-        "scores":[
+        "points":[
             5,
             1,
             4,
@@ -34,7 +34,7 @@ var friends = [
     {
         "name":"Idris",
         "photo":"https://tinyurl.com/yy8l6w5s",
-        "scores":[
+        "points":[
             5,
             1,
             4,
@@ -50,7 +50,7 @@ var friends = [
     {
         "name":"Ian",
         "photo":"https://tinyurl.com/yywf8c7q",
-        "scores":[
+        "points":[
             5,
             1,
             4,
@@ -66,7 +66,7 @@ var friends = [
     {
         "name":"Francesca",
         "photo":"https://tinyurl.com/y2tge3cp",
-        "scores":[
+        "points":[
             5,
             1,
             4,
@@ -82,7 +82,7 @@ var friends = [
     {
         "name":"Taylor",
         "photo":"https://tinyurl.com/y3krnfjq",
-        "scores":[
+        "points":[
             5,
             1,
             4,
@@ -98,7 +98,7 @@ var friends = [
     {
         "name":"Rebel",
         "photo":"https://tinyurl.com/y24xpvgn",
-        "scores":[
+        "points":[
             5,
             1,
             4,
@@ -114,7 +114,7 @@ var friends = [
     {
         "name":"Laurent",
         "photo":"https://tinyurl.com/yxz9sg7n",
-        "scores":[
+        "points":[
             5,
             1,
             4,
@@ -130,7 +130,7 @@ var friends = [
     {
         "name":"Ray",
         "photo":"https://tinyurl.com/y65s9ul2",
-        "scores":[
+        "points":[
             5,
             1,
             4,
@@ -146,7 +146,7 @@ var friends = [
     {
         "name":"Jaih",
         "photo":"Invalid URL",
-        "scores":[
+        "points":[
             5,
             1,
             4,
@@ -160,6 +160,6 @@ var friends = [
           ]
       }
 
-]
+];
 
-module.export = friends;
+module.exports = friends;
