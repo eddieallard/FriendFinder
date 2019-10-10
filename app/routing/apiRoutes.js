@@ -24,6 +24,6 @@ module.exports = function(app) {
                 function(a, i) {
                      return Math.abs(a - parseInt(friends[j].points));
                     });
-            console.log(`${friends[j].name}'s total diff from you is is ${totalDifference.reduce((a,b) => a + b, 0)}`);
+            console.log(`${friends[j].name}'s total diff from you is ${totalDifference.reduce((a,b) => a + b, 0)}`);
         }
     })};
